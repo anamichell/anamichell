@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Relativity] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [Relativity] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Insert link]
+[Relativity] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [Relativity] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [https://github.com/BTT-Relativity1B/Main]
 
 - 🔭 I’m currently working on our Fall 2024 Senior Project
 - 😄 Pronouns: She/her
