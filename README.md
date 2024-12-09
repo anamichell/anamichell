@@ -2,7 +2,7 @@
 
 I’m a first-generation student at UTRGV majoring in Computer Science with a passion for information technology and data security. I’m driven to make a meaningful impact in the tech industry by leveraging my problem-solving skills and innovative mindset.
 
-[Relativity] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [Relativity] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [https://github.com/BTT-Relativity1B/Main]
+[Relativity] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [Relativity] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Project Repo](https://github.com/BTT-Relativity1B/Main)
 
 - 🔭 I’m currently working on our Fall 2024 Senior Project
 - 😄 Pronouns: She/her
