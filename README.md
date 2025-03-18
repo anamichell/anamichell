@@ -4,7 +4,7 @@ I’m a first-generation student at UTRGV majoring in Computer Science with a pa
 
 [Relativity] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [Relativity] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Project Repo](https://github.com/BTT-Relativity1B/Main)
 
-- 🔭 I’m currently working on a University Equipment Scheduler website for our Fall 2024 Senior Project.
+- 🔭 I’m currently working in a Kaggle team project for WIDS Datathon 2025 for BTT.
 - 😄 Pronouns: She/her
 - 📢 Connect with me on [LinkedIn](https://www.linkedin.com/in/anamichell/).
 - 📧 Email: ana.garcia30@utrgv.edu
