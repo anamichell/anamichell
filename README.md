@@ -10,6 +10,6 @@ I’m Ana, a first-generation UTRGV graduate with a **B.S. in Computer Science**
 ### About Me  
 - 😄 Pronouns: She/her  
 - 📢 Let’s connect on [LinkedIn](https://www.linkedin.com/in/anamichell/)  
-- 📧 Reach me at: ana.garcia30@utrgv.edu  
+- 📧 Reach me at: michellana.garcia@gmail.com
 
 ---
