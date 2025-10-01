@@ -1,23 +1,15 @@
 ## Hi there 👋
 
-I’m a first-generation student at UTRGV majoring in Computer Science with a passion for information technology and data security. I’m driven to make a meaningful impact in the tech industry by leveraging my problem-solving skills and innovative mindset.
+I’m Ana, a first-generation UTRGV graduate with a **B.S. in Computer Science** and a passion for **data analytics and information systems**. I’m driven to make a meaningful impact by applying problem-solving skills and an innovative mindset to real-world challenges.  
 
-[Relativity] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [Relativity] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Project Repo](https://github.com/BTT-Relativity1B/Main)
+### Featured Project  
+- **[Relativity] Machine Learning Challenge (Break Through Tech AI Program)**  
+  Collaborated on a 3-month ML project as part of the AI Studio program. Our team developed methods to detect bias and improve sentiment analysis models.  
+  👉 [Project Repository](https://github.com/BTT-Relativity1B/Main)  
 
-- 😄 Pronouns: She/her
-- 📢 Connect with me on [LinkedIn](https://www.linkedin.com/in/anamichell/).
-- 📧 Email: ana.garcia30@utrgv.edu
-<!--
-**anamichell/anamichell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+- 😄 Pronouns: She/her  
+- 📢 Let’s connect on [LinkedIn](https://www.linkedin.com/in/anamichell/)  
+- 📧 Reach me at: ana.garcia30@utrgv.edu  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
