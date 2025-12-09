@@ -4,7 +4,7 @@ I’m Ana, a first-generation UTRGV graduate with a **B.S. in Computer Science**
 
 ### Projects
 **Welcome to my portfolio where I showcase my [projects](https://github.com/anamichell/Portfolio_Guide)**
-- You can also view my projects on my own [website](https://anamichell.github.io/)
+- You can also view my condensed projects on my own [website](https://anamichell.github.io/)
   
 
 ### About Me  
